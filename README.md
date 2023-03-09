@@ -19,8 +19,9 @@ First, you have to do couple of things.
 <img src="https://imgur.com/OopMgX0.png"  width="50%" height="30%">
 </p>
 <p align="center">
-`card2 = np.array([green_window, blue_window, yellow_window, red_door])
- `
+```python
+card2 = np.array([green_window, blue_window, yellow_window, red_door])
+```
  </p>
 5. Execute the code
 
