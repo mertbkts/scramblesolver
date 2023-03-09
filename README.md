@@ -4,7 +4,7 @@
 It is a puzzle game that you try to arrange nine illustrated square pieces into a square so that the images on the pieces' edges match perfectly to form a completed design in every direction.
 
 <p align="center">
-[![](https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif)](https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif)
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif)](https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif))
 </p>
 
 There are **95,126,814,720** possible combinations! And, only **1** of them is the solution.
