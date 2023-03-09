@@ -29,7 +29,6 @@ card2 = np.array([green_window, blue_window, yellow_window, red_door])
  
 3. Execute the code
   
-4. Profit?
 
 ### Output
 
@@ -83,6 +82,7 @@ Here is an example in real life:
  So, if you put two card together and the sum of their corners values equal to 0, it means that these cards are matched.
 
 My algorithm starts with giving a number for each cards and giving 4 values for their each edges. Then, it draws the first card from the deck and puts it in the center. After that, it puts the next card to the right of the first card, and sums their corners. If the sum is 0, it means they are matching and it draws the next card and checks if it matches with the second card. If it does, it moves to the fourth card, if it does not, it withdraws the third card and continues trying other cards. This algorithm starts from the center and adds cards counterclockwise as I already showed you:
+
 <p align="center">
 <img src="https://imgur.com/yJgAY1b.png"  width="60%" height="30%">
 </p>
