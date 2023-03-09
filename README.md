@@ -59,7 +59,9 @@ Here is a solved solution:
 
 The algorithm solves the problem with numbering the edges according to their color and shape. I gave different number values for different colors, and if the shape is house's door, it is a positive number, if it is house's window, it is a negative number.
 <p align="center">
-```python
+
+ ```python
+ 
 red_door = 1
 red_window = -1
 green_door = 2
@@ -68,6 +70,7 @@ blue_door = 3
 blue_window = -3
 yellow_door = 4
 yellow_window = -4
+ 
 ```
 </p>
 Here is an example in real life:
