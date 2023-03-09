@@ -4,7 +4,7 @@
 It is a puzzle game that you try to arrange nine illustrated square pieces into a square so that the images on the pieces' edges match perfectly to form a completed design in every direction.
 
 <p align="center">
-[![](https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif)](https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif)
+<img src="https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif)](https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif>
 </p>
 
 There are **95,126,814,720** possible combinations! And, only **1** of them is the solution.
@@ -14,7 +14,7 @@ There are **95,126,814,720** possible combinations! And, only **1** of them is t
 First, you have to do couple of things.
 1. Give numbers to each of your cards.
 
-3. Change the values of card arrays in the code, according to your cards. Values of your array should start from the bottom corner and has to go clockwise. For example;
+3. Change the values of card arrays in the code, according to your cards. Values of your array should start from the bottom corner and has to go clockwise. For example:
 <p align="center">
 <img src="https://imgur.com/OopMgX0.png"  width="50%" height="30%">
 </p>
