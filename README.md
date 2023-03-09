@@ -20,7 +20,9 @@ First, you have to do couple of things.
 </p>
 <p align="center">
 ```python
-card2 = np.array([green_window, blue_window, yellow_window, red_door])
+ 
+ card2 = np.array([green_window, blue_window, yellow_window, red_door])
+ 
 ```
  </p>
 5. Execute the code
