@@ -1,4 +1,5 @@
 # Scramble Squares Puzzle Solver
+A Scramble Squares solver, written in Python.
 ## What is Scramble Squares?
 
 It is a puzzle game that you try to arrange nine illustrated square pieces into a square so that the images on the pieces' edges match perfectly to form a completed design in every direction.
@@ -6,9 +7,9 @@ It is a puzzle game that you try to arrange nine illustrated square pieces into 
 <p align="center">
 <img src="https://www.scramblesquares.com/wp-content/uploads/fish-anim.gif">
 </p>
-There are **95,126,814,720** possible combinations! And, only **1** of them is the solution.
+There are <strong>95,126,814,720</strong> possible combinations! And, only <strong>1</strong> of them is the solution.
 
-## How to execute the code?
+## Usage
 
 First, you have to do couple of things.
 1. Give numbers to each of your cards.
